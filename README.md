@@ -4,6 +4,7 @@ In the navigation bar you can select news of your category.
 
 Below is the sample:
 
-![Screenshot (18)](https://github.com/pokerboyy/NewsMonkey/assets/91819325/75ef7cc8-75ad-400c-905f-83d690099362)
+![Screenshot (22)](https://github.com/pokerboyy/DigiNews/assets/91819325/b5a7dd4d-bd3c-4b6c-82f5-7b59c902f8d1)
+
 
 
